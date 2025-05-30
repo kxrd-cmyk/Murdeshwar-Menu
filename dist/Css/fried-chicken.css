@@ -1,0 +1,636 @@
+/* screen - fried-chicken */
+
+.fried-chicken {
+  align-items: flex-start;
+  background-color: var(--white);
+  cursor: pointer;
+  display: flex;
+  width: 430px;
+}
+
+.fried-chicken .overlap-group9 {
+  height: 932px;
+  position: relative;
+  width: 430px;
+  z-index: 1;
+}
+
+.fried-chicken .group-643 {
+  display: flex;
+  height: 932px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 430px;
+}
+
+.fried-chicken .flex-row {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  gap: 2px;
+  height: 360px;
+  margin-left: 0.17px;
+  min-width: 334px;
+}
+
+.fried-chicken .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 117px;
+  min-height: 360px;
+  width: 169px;
+}
+
+.fried-chicken .group-container-1 {
+  height: 74px;
+  margin-left: 0.34px;
+  position: relative;
+  width: 75px;
+}
+
+.fried-chicken .group-550 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  overflow: hidden;
+  width: 50.83px;
+}
+
+.fried-chicken .group-546 {
+  background-image: url(../img/group-544-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 37px;
+  left: 7px;
+  opacity: 0.1;
+  position: absolute;
+  top: 7px;
+  width: 37px;
+}
+
+.fried-chicken .group-549 {
+  background-image: url(../img/group-547-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 51px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 51px;
+}
+
+.fried-chicken .group-558 {
+  background-image: url(../img/group-1088@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 74px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 75px;
+}
+
+.fried-chicken .group-container-2 {
+  height: 168px;
+  position: relative;
+  width: 169px;
+}
+
+.fried-chicken .group-520 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  overflow: hidden;
+  width: 114.92px;
+}
+
+.fried-chicken .group-container-3 {
+  height: 115px;
+  position: relative;
+  width: 115px;
+}
+
+.fried-chicken .group-519 {
+  background-image: url(../img/group-1049@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 115px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 115px;
+}
+
+.fried-chicken .group-525 {
+  background-image: url(../img/group-523-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 127px;
+  left: 19px;
+  opacity: 0.1;
+  position: absolute;
+  top: 24px;
+  width: 127px;
+}
+
+.fried-chicken .group-528 {
+  background-image: url(../img/group-1058@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 168px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 169px;
+}
+
+.fried-chicken .group-container-4 {
+  height: 140px;
+  position: relative;
+  width: 140px;
+}
+
+.fried-chicken .group-505 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  overflow: hidden;
+  width: 95.45px;
+}
+
+.fried-chicken .group-container-5 {
+  height: 95px;
+  position: relative;
+  width: 95px;
+}
+
+.fried-chicken .group-504 {
+  background-image: url(../img/group-1034@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 95px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 95px;
+}
+
+.fried-chicken .group-510 {
+  background-image: url(../img/group-508-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 106px;
+  left: 16px;
+  opacity: 0.1;
+  position: absolute;
+  top: 20px;
+  width: 106px;
+}
+
+.fried-chicken .group-513 {
+  background-image: url(../img/group-1043@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 140px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 140px;
+}
+
+.fried-chicken .group-container-6 {
+  align-self: flex-end;
+  height: 74px;
+  position: relative;
+  width: 75px;
+}
+
+.fried-chicken .group-531 {
+  background-image: url(../img/group-1061@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 37px;
+  left: 7px;
+  opacity: 0.1;
+  position: absolute;
+  top: 7px;
+  width: 37px;
+}
+
+.fried-chicken .group-540 {
+  background-image: url(../img/group-1070@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 56px;
+  left: 8px;
+  opacity: 0.1;
+  position: absolute;
+  top: 11px;
+  width: 56px;
+}
+
+.fried-chicken .overlap-group-container-2 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 88px;
+  height: 203px;
+  margin-right: 0;
+  margin-top: 56px;
+  min-width: 368px;
+}
+
+.fried-chicken .group-container-7 {
+  height: 85px;
+  position: relative;
+  width: 85px;
+}
+
+.fried-chicken .group-580 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 58.06px;
+}
+
+.fried-chicken .group-container-8 {
+  height: 58px;
+  position: relative;
+  width: 58px;
+}
+
+.fried-chicken .group-588 {
+  background-image: url(../img/group-586-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 85px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 85px;
+}
+
+.fried-chicken .group-container-9 {
+  align-self: flex-end;
+  height: 195px;
+  position: relative;
+  width: 195px;
+}
+
+.fried-chicken .group-610 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  padding: 0 0.0px;
+  width: 132.85px;
+}
+
+.fried-chicken .group-container-10 {
+  height: 133px;
+  position: relative;
+  width: 133px;
+}
+
+.fried-chicken .group-615 {
+  background-image: url(../img/group-1145@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 147px;
+  left: 22px;
+  opacity: 0.1;
+  position: absolute;
+  top: 28px;
+  width: 147px;
+}
+
+.fried-chicken .group-618 {
+  background-image: url(../img/group-1021@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 195px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 195px;
+}
+
+.fried-chicken .overlap-group-container-3 {
+  align-items: center;
+  display: flex;
+  gap: 63px;
+  margin-left: 0;
+  margin-top: 38px;
+  min-width: 357px;
+}
+
+.fried-chicken .group-container-11 {
+  height: 249px;
+  position: relative;
+  width: 249px;
+}
+
+.fried-chicken .group-595 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 169.68px;
+}
+
+.fried-chicken .group-container-12 {
+  height: 170px;
+  position: relative;
+  width: 170px;
+}
+
+.fried-chicken .group-591 {
+  background-image: url(../img/group-589-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 123px;
+  left: 23px;
+  opacity: 0.1;
+  position: absolute;
+  top: 23px;
+  width: 123px;
+}
+
+.fried-chicken .group-594 {
+  background-image: url(../img/group-592-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 170px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 170px;
+}
+
+.fried-chicken .group-603 {
+  background-image: url(../img/group-1133@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 249px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 249px;
+}
+
+.fried-chicken .group-container-13 {
+  height: 46px;
+  margin-bottom: 93.2px;
+  position: relative;
+  width: 46px;
+}
+
+.fried-chicken .group-565 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  width: 31.09px;
+}
+
+.fried-chicken .group-container-14 {
+  height: 31px;
+  position: relative;
+  width: 31px;
+}
+
+.fried-chicken .group-561 {
+  background-image: url(../img/group-1091@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23px;
+  left: 4px;
+  opacity: 0.1;
+  position: absolute;
+  top: 4px;
+  width: 23px;
+}
+
+.fried-chicken .group-564 {
+  background-image: url(../img/group-1094@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 31px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 31px;
+}
+
+.fried-chicken .group-570 {
+  background-image: url(../img/group-1100@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 34px;
+  left: 5px;
+  opacity: 0.1;
+  position: absolute;
+  top: 6px;
+  width: 34px;
+}
+
+.fried-chicken .group-573 {
+  background-image: url(../img/group-1103@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 46px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 46px;
+}
+
+.fried-chicken .group-639 {
+  cursor: pointer;
+  display: flex;
+  height: 174px;
+  left: 128px;
+  position: absolute;
+  top: 39px;
+  width: 174px;
+}
+
+.fried-chicken .overlap-group {
+  height: 174px;
+  position: relative;
+  width: 174px;
+}
+
+.fried-chicken .group-310 {
+  display: flex;
+  flex: 1;
+  width: 174.24px;
+}
+
+.fried-chicken .murdeshwars {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 28.3px;
+  position: absolute;
+  top: 116px;
+  white-space: nowrap;
+}
+
+.fried-chicken .murdeshwars-1 {
+  left: 22px;
+  letter-spacing: 0;
+  line-height: 28.3px;
+  position: absolute;
+  top: 116px;
+  white-space: nowrap;
+}
+
+.fried-chicken .span1-1 {
+  letter-spacing: -0.48px;
+}
+
+.fried-chicken .path-48 {
+  top: 26px;
+}
+
+.fried-chicken .path-49 {
+  top: 25px;
+}
+
+.fried-chicken .title {
+  height: 38px;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 234px;
+  width: 395px;
+}
+
+.fried-chicken .fried_chicken_strips_02-removebg {
+  height: 281px;
+  left: 63px;
+  object-fit: cover;
+  position: absolute;
+  top: 296px;
+  width: 304px;
+}
+
+.fried-chicken .murdeshwars-fried-c {
+  height: 149px;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 585px;
+  width: 398px;
+}
+
+.fried-chicken .group-1264 {
+  align-items: flex-end;
+  display: flex;
+  gap: 5px;
+  height: 61px;
+  justify-content: flex-end;
+  left: 33px;
+  min-width: 366px;
+  position: absolute;
+  top: 747px;
+}
+
+.fried-chicken .group-1224 {
+  background-image: url(../img/group-1223-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 33px;
+  width: 24px;
+}
+
+.fried-chicken .fried-chicken-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-bottom: -1.78px;
+  min-height: 60px;
+  width: 337px;
+}
+
+.fried-chicken .classic-crispy-fried-chicken155 {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 24px;
+  min-width: 301px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.fried-chicken .fried-chicken-finger {
+  color: var(--wild-watermelon);
+  font-family: var(--font-family-gillsans_std-bold);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 24px;
+  min-width: 337px;
+  white-space: nowrap;
+}
+
+.fried-chicken .nav_icons {
+  align-items: flex-end;
+  display: flex;
+  height: 18px;
+  justify-content: flex-end;
+  left: 120px;
+  min-width: 190px;
+  position: fixed;
+  top: 890px;
+  z-index: 2;
+}
+
+.fried-chicken .polygon-1 {
+  margin-bottom: 0;
+}
+
+.fried-chicken .subtraction-1 {
+  cursor: pointer;
+  height: 18px;
+  margin-bottom: 0;
+  margin-left: 68px;
+  object-fit: cover;
+  width: 27px;
+}
+
+.fried-chicken .path {
+  height: 84px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  width: 84px;
+}
+
+.fried-chicken .polygon {
+  cursor: pointer;
+  height: 18px;
+  object-fit: cover;
+  width: 15px;
+}

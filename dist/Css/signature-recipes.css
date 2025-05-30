@@ -1,0 +1,1157 @@
+/* screen - signature-recipes */
+
+.signature-recipes {
+  align-items: flex-start;
+  background-color: var(--white);
+  cursor: pointer;
+  display: flex;
+  width: 430px;
+}
+
+.signature-recipes .overlap-group11 {
+  height: 932px;
+  position: relative;
+  width: 430px;
+  z-index: 1;
+}
+
+.signature-recipes .group-903 {
+  display: flex;
+  height: 932px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 430px;
+}
+
+.signature-recipes .group-902 {
+  background-color: var(--eerie-black-2);
+  display: flex;
+  flex: 1;
+  width: 430px;
+}
+
+.signature-recipes .group-90 {
+  display: flex;
+  flex: 1;
+  width: 430px;
+}
+
+.signature-recipes .group-899 {
+  display: flex;
+  flex: 1;
+  margin-bottom: 14.1px;
+  margin-left: 23.9px;
+  margin-right: 25.2px;
+  margin-top: 12.4px;
+  opacity: 0.46;
+  width: 380.95px;
+}
+
+.signature-recipes .group-898 {
+  display: flex;
+  flex: 1;
+  width: 380.95px;
+}
+
+.signature-recipes .group-897 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  padding: 0 0.0px;
+  width: 380.95px;
+}
+
+.signature-recipes .flex-row {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  gap: 2px;
+  height: 360px;
+  margin-left: 0.17px;
+  min-width: 334px;
+}
+
+.signature-recipes .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 117px;
+  min-height: 360px;
+  width: 169px;
+}
+
+.signature-recipes .group-container-1 {
+  height: 74px;
+  margin-left: 0.34px;
+  position: relative;
+  width: 75px;
+}
+
+.signature-recipes .group-8 {
+  display: flex;
+  height: 51px;
+  left: 12px;
+  opacity: 0.35;
+  position: absolute;
+  top: 12px;
+  width: 51px;
+}
+
+.signature-recipes .group-829 {
+  display: flex;
+  flex: 1;
+  width: 50.83px;
+}
+
+.signature-recipes .group-828 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 50.83px;
+}
+
+.signature-recipes .group-824 {
+  background-image: url(../img/group-1076@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 37px;
+  left: 7px;
+  opacity: 0.1;
+  position: absolute;
+  top: 7px;
+  width: 37px;
+}
+
+.signature-recipes .group-8-1 {
+  background-image: url(../img/group-1064@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 51px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 51px;
+}
+
+.signature-recipes .group-833 {
+  background-image: url(../img/group-1085@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 56px;
+  left: 8px;
+  opacity: 0.1;
+  position: absolute;
+  top: 11px;
+  width: 56px;
+}
+
+.signature-recipes .group-836 {
+  background-image: url(../img/group-1088@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 74px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 75px;
+}
+
+.signature-recipes .group-container-2 {
+  height: 168px;
+  position: relative;
+  width: 169px;
+}
+
+.signature-recipes .group-800 {
+  display: flex;
+  height: 115px;
+  left: 27px;
+  opacity: 0.35;
+  position: absolute;
+  top: 27px;
+  width: 115px;
+}
+
+.signature-recipes .group-799 {
+  display: flex;
+  flex: 1;
+  width: 114.92px;
+}
+
+.signature-recipes .group-798 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 114.92px;
+}
+
+.signature-recipes .group-container-3 {
+  height: 115px;
+  position: relative;
+  width: 115px;
+}
+
+.signature-recipes .group-794 {
+  background-image: url(../img/group-1046@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 83px;
+  left: 15px;
+  opacity: 0.1;
+  position: absolute;
+  top: 16px;
+  width: 84px;
+}
+
+.signature-recipes .group-797 {
+  background-image: url(../img/group-1049@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 115px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 115px;
+}
+
+.signature-recipes .group-803 {
+  background-image: url(../img/group-1055@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 127px;
+  left: 19px;
+  opacity: 0.1;
+  position: absolute;
+  top: 24px;
+  width: 127px;
+}
+
+.signature-recipes .group-806 {
+  background-image: url(../img/group-1058@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 168px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 169px;
+}
+
+.signature-recipes .group-container-4 {
+  height: 140px;
+  position: relative;
+  width: 140px;
+}
+
+.signature-recipes .group-785 {
+  display: flex;
+  height: 95px;
+  left: 22px;
+  opacity: 0.35;
+  position: absolute;
+  top: 22px;
+  width: 95px;
+}
+
+.signature-recipes .group-784 {
+  display: flex;
+  flex: 1;
+  width: 95.45px;
+}
+
+.signature-recipes .group-783 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  width: 95.45px;
+}
+
+.signature-recipes .group-container-5 {
+  height: 95px;
+  position: relative;
+  width: 95px;
+}
+
+.signature-recipes .group-779 {
+  background-image: url(../img/group-1031@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 69px;
+  left: 13px;
+  opacity: 0.1;
+  position: absolute;
+  top: 13px;
+  width: 69px;
+}
+
+.signature-recipes .group-782 {
+  background-image: url(../img/group-1034@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 95px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 95px;
+}
+
+.signature-recipes .group-788 {
+  background-image: url(../img/group-1040@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 106px;
+  left: 16px;
+  opacity: 0.1;
+  position: absolute;
+  top: 20px;
+  width: 106px;
+}
+
+.signature-recipes .group-791 {
+  background-image: url(../img/group-1043@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 140px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 140px;
+}
+
+.signature-recipes .group-container-6 {
+  align-self: flex-end;
+  height: 74px;
+  position: relative;
+  width: 75px;
+}
+
+.signature-recipes .group-814 {
+  display: flex;
+  flex: 1;
+  width: 50.83px;
+}
+
+.signature-recipes .group-813 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 50.83px;
+}
+
+.signature-recipes .group-809 {
+  background-image: url(../img/group-1061@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 37px;
+  left: 7px;
+  opacity: 0.1;
+  position: absolute;
+  top: 7px;
+  width: 37px;
+}
+
+.signature-recipes .group-818 {
+  background-image: url(../img/group-1070@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 56px;
+  left: 8px;
+  opacity: 0.1;
+  position: absolute;
+  top: 11px;
+  width: 56px;
+}
+
+.signature-recipes .group-821 {
+  background-image: url(../img/group-692@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 74px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 75px;
+}
+
+.signature-recipes .overlap-group-container-2 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 88px;
+  height: 203px;
+  margin-top: 56px;
+  min-width: 368px;
+}
+
+.signature-recipes .group-container-7 {
+  height: 85px;
+  position: relative;
+  width: 85px;
+}
+
+.signature-recipes .group-860 {
+  display: flex;
+  height: 58px;
+  left: 14px;
+  opacity: 0.35;
+  position: absolute;
+  top: 14px;
+  width: 58px;
+}
+
+.signature-recipes .group-859 {
+  display: flex;
+  flex: 1;
+  width: 58.06px;
+}
+
+.signature-recipes .group-858 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  width: 58.06px;
+}
+
+.signature-recipes .group-container-8 {
+  height: 58px;
+  position: relative;
+  width: 58px;
+}
+
+.signature-recipes .group-854 {
+  background-image: url(../img/group-1106@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 42px;
+  left: 8px;
+  opacity: 0.1;
+  position: absolute;
+  top: 8px;
+  width: 42px;
+}
+
+.signature-recipes .group-857 {
+  background-image: url(../img/group-1109@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 58px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 58px;
+}
+
+.signature-recipes .group-863 {
+  background-image: url(../img/group-1115@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 64px;
+  left: 10px;
+  opacity: 0.1;
+  position: absolute;
+  top: 12px;
+  width: 64px;
+}
+
+.signature-recipes .group-866 {
+  background-image: url(../img/group-586-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 85px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 85px;
+}
+
+.signature-recipes .group-container-9 {
+  align-self: flex-end;
+  height: 195px;
+  position: relative;
+  width: 195px;
+}
+
+.signature-recipes .group-890 {
+  display: flex;
+  height: 133px;
+  left: 31px;
+  opacity: 0.35;
+  position: absolute;
+  top: 31px;
+  width: 133px;
+}
+
+.signature-recipes .group-889 {
+  display: flex;
+  flex: 1;
+  width: 132.85px;
+}
+
+.signature-recipes .group-888 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  padding: 0 0.0px;
+  width: 132.85px;
+}
+
+.signature-recipes .group-container-10 {
+  height: 133px;
+  position: relative;
+  width: 133px;
+}
+
+.signature-recipes .group-884 {
+  background-image: url(../img/group-1009@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 96px;
+  left: 18px;
+  opacity: 0.1;
+  position: absolute;
+  top: 18px;
+  width: 97px;
+}
+
+.signature-recipes .group-887 {
+  background-image: url(../img/group-1012@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 133px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 133px;
+}
+
+.signature-recipes .group-893 {
+  background-image: url(../img/group-1018@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 147px;
+  left: 22px;
+  opacity: 0.1;
+  position: absolute;
+  top: 28px;
+  width: 147px;
+}
+
+.signature-recipes .group-896 {
+  background-image: url(../img/group-1021@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 195px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 195px;
+}
+
+.signature-recipes .overlap-group-container-3 {
+  align-items: center;
+  display: flex;
+  gap: 63px;
+  margin-left: 0;
+  margin-top: 38px;
+  min-width: 357px;
+}
+
+.signature-recipes .group-container-11 {
+  height: 249px;
+  position: relative;
+  width: 249px;
+}
+
+.signature-recipes .group-875 {
+  display: flex;
+  height: 170px;
+  left: 40px;
+  opacity: 0.35;
+  position: absolute;
+  top: 40px;
+  width: 170px;
+}
+
+.signature-recipes .group-874 {
+  display: flex;
+  flex: 1;
+  width: 169.68px;
+}
+
+.signature-recipes .group-873 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 169.68px;
+}
+
+.signature-recipes .group-container-12 {
+  height: 170px;
+  position: relative;
+  width: 170px;
+}
+
+.signature-recipes .group-869 {
+  background-image: url(../img/group-1121@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 123px;
+  left: 23px;
+  opacity: 0.1;
+  position: absolute;
+  top: 23px;
+  width: 123px;
+}
+
+.signature-recipes .group-872 {
+  background-image: url(../img/group-1124@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 170px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 170px;
+}
+
+.signature-recipes .group-878 {
+  background-image: url(../img/group-1003@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 188px;
+  left: 28px;
+  opacity: 0.1;
+  position: absolute;
+  top: 35px;
+  width: 188px;
+}
+
+.signature-recipes .group-881 {
+  background-image: url(../img/group-1006@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 249px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 249px;
+}
+
+.signature-recipes .group-container-13 {
+  height: 46px;
+  margin-bottom: 93.2px;
+  position: relative;
+  width: 46px;
+}
+
+.signature-recipes .group-845 {
+  display: flex;
+  height: 31px;
+  left: 7px;
+  opacity: 0.35;
+  position: absolute;
+  top: 7px;
+  width: 31px;
+}
+
+.signature-recipes .group-844 {
+  display: flex;
+  flex: 1;
+  width: 31.09px;
+}
+
+.signature-recipes .group-843 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  width: 31.09px;
+}
+
+.signature-recipes .group-container-14 {
+  height: 31px;
+  position: relative;
+  width: 31px;
+}
+
+.signature-recipes .group-839 {
+  background-image: url(../img/group-1091@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23px;
+  left: 4px;
+  opacity: 0.1;
+  position: absolute;
+  top: 4px;
+  width: 23px;
+}
+
+.signature-recipes .group-842 {
+  background-image: url(../img/group-1094@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 31px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 31px;
+}
+
+.signature-recipes .group-848 {
+  background-image: url(../img/group-1100@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 34px;
+  left: 5px;
+  opacity: 0.1;
+  position: absolute;
+  top: 6px;
+  width: 34px;
+}
+
+.signature-recipes .group-851 {
+  background-image: url(../img/group-1103@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 46px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 46px;
+}
+
+.signature-recipes .group-498 {
+  cursor: pointer;
+  display: flex;
+  height: 174px;
+  left: 128px;
+  position: absolute;
+  top: 39px;
+  width: 174px;
+}
+
+.signature-recipes .overlap-group {
+  height: 174px;
+  position: relative;
+  width: 174px;
+}
+
+.signature-recipes .group-310 {
+  display: flex;
+  flex: 1;
+  width: 174.24px;
+}
+
+.signature-recipes .murdeshwars {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 28.3px;
+  position: absolute;
+  top: 116px;
+  white-space: nowrap;
+}
+
+.signature-recipes .murdeshwars-1 {
+  left: 22px;
+  letter-spacing: 0;
+  line-height: 28.3px;
+  position: absolute;
+  top: 116px;
+  white-space: nowrap;
+}
+
+.signature-recipes .span1-1 {
+  letter-spacing: -0.48px;
+}
+
+.signature-recipes .path-48 {
+  height: 84px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 84px;
+}
+
+.signature-recipes .path-49 {
+  height: 84px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 84px;
+}
+
+.signature-recipes .title {
+  height: 70px;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 232px;
+  width: 395px;
+}
+
+.signature-recipes .overlap-group9 {
+  height: 142px;
+  left: 12px;
+  position: absolute;
+  top: 322px;
+  width: 408px;
+}
+
+.signature-recipes .group-635 {
+  display: flex;
+  height: 142px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 186px;
+}
+
+.signature-recipes .group-634 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  padding: 0 3.7px;
+  width: 186.05px;
+}
+
+.signature-recipes .group-container-15 {
+  height: 142px;
+  margin-bottom: -2.0px;
+  margin-left: 14px;
+  position: relative;
+  width: 164px;
+}
+
+.signature-recipes .group-629 {
+  background-image: url(../img/group-626@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 71px;
+  left: 0;
+  position: absolute;
+  top: 26px;
+  width: 64px;
+}
+
+.signature-recipes .group-633 {
+  background-image: url(../img/group-630@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 142px;
+  left: 37px;
+  position: absolute;
+  top: 0;
+  width: 127px;
+}
+
+.signature-recipes .all-protein-no-pota {
+  height: 111px;
+  left: 182px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  top: 28px;
+  width: 226px;
+}
+
+.signature-recipes .group-1239 {
+  align-items: flex-end;
+  display: flex;
+  gap: 5px;
+  height: 21px;
+  left: 191px;
+  position: absolute;
+  top: 322px;
+  width: 214px;
+}
+
+.signature-recipes .ellipse-8 {
+  margin-bottom: -3.6px;
+}
+
+.signature-recipes .chicken {
+  color: var(--white);
+  flex: 1;
+  font-family: var(--font-family-gillsans_mt-bold);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-bottom: 0.5px;
+  margin-right: -2px;
+  margin-top: -2.5px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.signature-recipes .group-1238 {
+  align-items: flex-end;
+  display: flex;
+  height: 152px;
+  justify-content: space-between;
+  left: 14px;
+  position: absolute;
+  top: 478px;
+  width: 403px;
+}
+
+.signature-recipes .group-1237 {
+  align-items: flex-end;
+  display: flex;
+  height: 100px;
+  margin-bottom: 21px;
+  min-width: 248px;
+}
+
+.signature-recipes .overlap-group-1 {
+  height: 102px;
+  margin-bottom: -1.5px;
+  position: relative;
+  width: 248px;
+}
+
+.signature-recipes .minced-chicken-cooke {
+  height: 82px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  text-align: right;
+  top: 20px;
+  width: 248px;
+}
+
+.signature-recipes .group-1231 {
+  align-items: flex-end;
+  display: flex;
+  gap: 3px;
+  height: 21px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 248px;
+}
+
+.signature-recipes .ellipse-9 {
+  margin-bottom: -3.8px;
+}
+
+.signature-recipes .keema_-paav {
+  object-fit: cover;
+  width: 151px;
+}
+
+.signature-recipes .overlap-group10 {
+  height: 255px;
+  left: 3px;
+  position: absolute;
+  top: 633px;
+  width: 426px;
+}
+
+.signature-recipes .misal_-thaali-shadow {
+  height: 255px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 268px;
+}
+
+.signature-recipes .overlap-group1 {
+  height: 222px;
+  left: 243px;
+  position: absolute;
+  top: 8px;
+  width: 183px;
+}
+
+.signature-recipes .our-non-vegetarian-t {
+  height: 183px;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  top: 40px;
+  width: 156px;
+}
+
+.signature-recipes .group-1234 {
+  display: flex;
+  height: 40px;
+  justify-content: space-between;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 151px;
+}
+
+.signature-recipes .group-1233 {
+  display: flex;
+  height: 29.08px;
+  width: 20.8px;
+}
+
+.signature-recipes .group-1221 {
+  display: flex;
+  flex: 1;
+  margin-bottom: 0;
+  margin-right: 0;
+  width: 20.8px;
+}
+
+.signature-recipes .group-1222 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  min-width: 20.8px;
+}
+
+.signature-recipes .path-container {
+  height: 29px;
+  margin-top: 0;
+  position: relative;
+  width: 21px;
+}
+
+.signature-recipes .path-258 {
+  height: 19px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 21px;
+}
+
+.signature-recipes .path-259 {
+  height: 10px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.signature-recipes .path-260 {
+  height: 11px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.signature-recipes .path-261 {
+  height: 9px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 4px;
+}
+
+.signature-recipes .path-262 {
+  height: 19px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 19px;
+}
+
+.signature-recipes .path-263 {
+  height: 12px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 12px;
+}
+
+.signature-recipes .path-264 {
+  height: 4px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 4px;
+}
+
+.signature-recipes .chicken-misal-pav150 {
+  color: var(--wild-watermelon);
+  font-family: var(--font-family-gillsans_mt-bold);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -3.5px;
+  margin-right: -2px;
+  margin-top: 2.5px;
+  white-space: nowrap;
+  width: 124px;
+}
+
+.signature-recipes .nav_icons {
+  align-items: flex-end;
+  display: flex;
+  height: 18px;
+  justify-content: flex-end;
+  left: 120px;
+  min-width: 190px;
+  position: fixed;
+  top: 890px;
+  z-index: 2;
+}
+
+.signature-recipes .polygon-1 {
+  margin-bottom: 0;
+}
+
+.signature-recipes .subtraction-1 {
+  cursor: pointer;
+  height: 18px;
+  margin-bottom: 0;
+  margin-left: 68px;
+  object-fit: cover;
+  width: 27px;
+}
+
+.signature-recipes .ellipse {
+  background-color: var(--bittersweet-shimmer);
+  border-radius: 4.5px;
+  height: 9px;
+  width: 9px;
+}
+
+.signature-recipes .polygon {
+  cursor: pointer;
+  height: 18px;
+  object-fit: cover;
+  width: 15px;
+}
