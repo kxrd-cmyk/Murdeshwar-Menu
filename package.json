@@ -2,7 +2,9 @@
   "name": "murdeshwar-menu",
   "version": "1.0.0",
   "scripts": {
-    "build": "mkdir -p dist && cp -r . dist/",
+    "build": "npm run clean && npm run copy",
+    "clean": "rm -rf dist",
+    "copy": "mkdir -p dist && cp -r ./* dist/",
     "start": "serve dist"
   },
   "devDependencies": {

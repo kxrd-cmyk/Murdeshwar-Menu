@@ -1,21 +1,21 @@
 [build]
 base = "/"
 publish = "dist"
-command = "mkdir -p dist && cp -r . dist/"
+command = "npm run build"
 
 [build.environment]
 NODE_VERSION = "18"
 
 [context.production]
-command = "mkdir -p dist && cp -r . dist/"
+command = "npm run build"
 publish = "dist"
 
 [context.deploy-preview]
-command = "mkdir -p dist && cp -r . dist/"
+command = "npm run build"
 publish = "dist"
 
 [context.branch-deploy]
-command = "mkdir -p dist && cp -r . dist/"
+command = "npm run build"
 publish = "dist"
 
 [[redirects]]
