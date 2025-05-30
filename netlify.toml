@@ -1,21 +1,21 @@
 [build]
 base = "/"
 publish = "dist"
-command = "if not exist dist mkdir dist && xcopy /E /I /Y * dist"
+command = "mkdir -p dist && cp -r . dist/"
 
 [build.environment]
 NODE_VERSION = "18"
 
 [context.production]
-command = "if not exist dist mkdir dist && xcopy /E /I /Y * dist"
+command = "mkdir -p dist && cp -r . dist/"
 publish = "dist"
 
 [context.deploy-preview]
-command = "if not exist dist mkdir dist && xcopy /E /I /Y * dist"
+command = "mkdir -p dist && cp -r . dist/"
 publish = "dist"
 
 [context.branch-deploy]
-command = "if not exist dist mkdir dist && xcopy /E /I /Y * dist"
+command = "mkdir -p dist && cp -r . dist/"
 publish = "dist"
 
 [[redirects]]

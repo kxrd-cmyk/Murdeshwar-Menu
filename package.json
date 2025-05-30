@@ -2,7 +2,7 @@
   "name": "murdeshwar-menu",
   "version": "1.0.0",
   "scripts": {
-    "build": "if not exist dist mkdir dist && xcopy /E /I /Y * dist",
+    "build": "mkdir -p dist && cp -r . dist/",
     "start": "serve dist"
   },
   "devDependencies": {
