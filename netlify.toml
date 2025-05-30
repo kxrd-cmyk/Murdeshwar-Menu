@@ -1,22 +1,24 @@
 [build]
-  base = "/"
-  publish = "dist"
-  command = "npm run build"
+base = "/"
+publish = "dist"
+command = "npm run build"
 
 [build.environment]
-  NODE_VERSION = "18"
+NODE_VERSION = "18"
 
 [context.production]
-  command = "npm run build"
-  publish = "dist"
+command = "npm run build"
+publish = "dist"
 
 [context.deploy-preview]
-  command = "npm run build"
-  publish = "dist"
+command = "npm run build"
+publish = "dist"
 
 [context.branch-deploy]
-  command = "npm run build"
-  publish = "dist"
+command = "npm run build"
+publish = "dist"
 
-[redirects]
-  /*  /index.html  200
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
