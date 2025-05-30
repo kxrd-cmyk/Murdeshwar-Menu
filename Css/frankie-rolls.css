@@ -1,0 +1,654 @@
+/* screen - frankie-rolls */
+
+.frankie-rolls {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  width: 430px;
+}
+
+.frankie-rolls .overlap-group9 {
+  height: 932px;
+  position: relative;
+  width: 430px;
+}
+
+.frankie-rolls .flex-row {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  gap: 2px;
+  height: 360px;
+  margin-left: 0.18px;
+  min-width: 334px;
+}
+
+.frankie-rolls .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 117px;
+  min-height: 360px;
+  width: 168px;
+}
+
+.frankie-rolls .group-container-1 {
+  height: 74px;
+  margin-left: 0.34px;
+  position: relative;
+  width: 75px;
+}
+
+.frankie-rolls .group-550 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  overflow: hidden;
+  width: 50.83px;
+}
+
+.frankie-rolls .group-546 {
+  background-image: url(../img/group-544-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 37px;
+  left: 7px;
+  opacity: 0.1;
+  position: absolute;
+  top: 7px;
+  width: 37px;
+}
+
+.frankie-rolls .group-549 {
+  background-image: url(../img/group-547-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 51px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 51px;
+}
+
+.frankie-rolls .group-558 {
+  background-image: url(../img/group-556-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 74px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 75px;
+}
+
+.frankie-rolls .group-container-2 {
+  height: 168px;
+  position: relative;
+  width: 168px;
+}
+
+.frankie-rolls .group-520 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  overflow: hidden;
+  width: 114.92px;
+}
+
+.frankie-rolls .group-container-3 {
+  height: 115px;
+  position: relative;
+  width: 115px;
+}
+
+.frankie-rolls .group-519 {
+  background-image: url(../img/group-517-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 115px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 115px;
+}
+
+.frankie-rolls .group-525 {
+  background-image: url(../img/group-523-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 127px;
+  left: 19px;
+  opacity: 0.1;
+  position: absolute;
+  top: 24px;
+  width: 127px;
+}
+
+.frankie-rolls .group-528 {
+  background-image: url(../img/group-1058@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 168px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 168px;
+}
+
+.frankie-rolls .group-container-4 {
+  height: 140px;
+  position: relative;
+  width: 140px;
+}
+
+.frankie-rolls .group-505 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  padding: 0 0.0px;
+  width: 95.45px;
+}
+
+.frankie-rolls .group-container-5 {
+  height: 95px;
+  position: relative;
+  width: 95px;
+}
+
+.frankie-rolls .group-504 {
+  background-image: url(../img/group-502-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 95px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 95px;
+}
+
+.frankie-rolls .group-510 {
+  background-image: url(../img/group-508-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 106px;
+  left: 16px;
+  opacity: 0.1;
+  position: absolute;
+  top: 20px;
+  width: 106px;
+}
+
+.frankie-rolls .group-513 {
+  background-image: url(../img/group-511-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 140px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 140px;
+}
+
+.frankie-rolls .group-container-6 {
+  align-self: flex-end;
+  height: 74px;
+  position: relative;
+  width: 75px;
+}
+
+.frankie-rolls .group-531 {
+  background-image: url(../img/group-1061@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 37px;
+  left: 7px;
+  opacity: 0.1;
+  position: absolute;
+  top: 7px;
+  width: 37px;
+}
+
+.frankie-rolls .group-540 {
+  background-image: url(../img/group-1070@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 56px;
+  left: 8px;
+  opacity: 0.1;
+  position: absolute;
+  top: 11px;
+  width: 56px;
+}
+
+.frankie-rolls .overlap-group-container-2 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 88px;
+  height: 203px;
+  margin-right: 0;
+  margin-top: 56px;
+  min-width: 368px;
+}
+
+.frankie-rolls .group-container-7 {
+  height: 85px;
+  position: relative;
+  width: 85px;
+}
+
+.frankie-rolls .group-580 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  padding: 0 0.0px;
+  width: 58.06px;
+}
+
+.frankie-rolls .group-container-8 {
+  height: 58px;
+  position: relative;
+  width: 58px;
+}
+
+.frankie-rolls .group-588 {
+  background-image: url(../img/group-586-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 85px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 85px;
+}
+
+.frankie-rolls .group-container-9 {
+  align-self: flex-end;
+  height: 195px;
+  position: relative;
+  width: 195px;
+}
+
+.frankie-rolls .group-610 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  overflow: hidden;
+  width: 132.85px;
+}
+
+.frankie-rolls .group-container-10 {
+  height: 133px;
+  position: relative;
+  width: 133px;
+}
+
+.frankie-rolls .group-615 {
+  background-image: url(../img/group-1145@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 147px;
+  left: 22px;
+  opacity: 0.1;
+  position: absolute;
+  top: 28px;
+  width: 147px;
+}
+
+.frankie-rolls .group-618 {
+  background-image: url(../img/group-616-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 195px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 195px;
+}
+
+.frankie-rolls .overlap-group-container-3 {
+  align-items: center;
+  display: flex;
+  gap: 63px;
+  margin-left: 0;
+  margin-top: 38px;
+  min-width: 357px;
+}
+
+.frankie-rolls .group-container-11 {
+  height: 249px;
+  position: relative;
+  width: 249px;
+}
+
+.frankie-rolls .group-595 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  overflow: hidden;
+  width: 169.68px;
+}
+
+.frankie-rolls .group-container-12 {
+  height: 170px;
+  position: relative;
+  width: 170px;
+}
+
+.frankie-rolls .group-591 {
+  background-image: url(../img/group-589-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 123px;
+  left: 23px;
+  opacity: 0.1;
+  position: absolute;
+  top: 23px;
+  width: 123px;
+}
+
+.frankie-rolls .group-594 {
+  background-image: url(../img/group-592-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 170px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 170px;
+}
+
+.frankie-rolls .group-603 {
+  background-image: url(../img/group-601-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 249px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 249px;
+}
+
+.frankie-rolls .group-container-13 {
+  height: 46px;
+  margin-bottom: 93.2px;
+  position: relative;
+  width: 46px;
+}
+
+.frankie-rolls .group-565 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 31.09px;
+}
+
+.frankie-rolls .group-container-14 {
+  height: 31px;
+  position: relative;
+  width: 31px;
+}
+
+.frankie-rolls .group-561 {
+  background-image: url(../img/group-559-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23px;
+  left: 4px;
+  opacity: 0.1;
+  position: absolute;
+  top: 4px;
+  width: 23px;
+}
+
+.frankie-rolls .group-564 {
+  background-image: url(../img/group-562-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 31px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 31px;
+}
+
+.frankie-rolls .group-570 {
+  background-image: url(../img/group-1100@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 34px;
+  left: 5px;
+  opacity: 0.1;
+  position: absolute;
+  top: 6px;
+  width: 34px;
+}
+
+.frankie-rolls .group-573 {
+  background-image: url(../img/group-571-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 46px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 46px;
+}
+
+.frankie-rolls .overlap-group {
+  height: 174px;
+  position: relative;
+  width: 174px;
+}
+
+.frankie-rolls .group-310 {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 174.24px;
+}
+
+.frankie-rolls .murdeshwars {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 28.3px;
+  position: absolute;
+  top: 116px;
+  white-space: nowrap;
+}
+
+.frankie-rolls .murdeshwars-1 {
+  left: 22px;
+  letter-spacing: 0;
+  line-height: 28.3px;
+  position: absolute;
+  top: 116px;
+  white-space: nowrap;
+}
+
+.frankie-rolls .span1-1 {
+  letter-spacing: -0.48px;
+}
+
+.frankie-rolls .path-48 {
+  top: 26px;
+}
+
+.frankie-rolls .path-49 {
+  top: 25px;
+}
+
+.frankie-rolls .polygon-1 {
+  cursor: pointer;
+  height: 18px;
+  left: 120px;
+  object-fit: cover;
+  position: absolute;
+  top: 890px;
+  width: 15px;
+}
+
+.frankie-rolls .subtraction-1 {
+  height: 18px;
+  left: 203px;
+  object-fit: cover;
+  position: absolute;
+  top: 890px;
+  width: 27px;
+}
+
+.frankie-rolls .name {
+  height: 37px;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 232px;
+  width: 395px;
+}
+
+.frankie-rolls .group-1217 {
+  display: flex;
+  height: 346px;
+  left: 10px;
+  position: absolute;
+  top: 301px;
+  width: 410px;
+}
+
+.frankie-rolls .group-1216 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  width: 410px;
+}
+
+.frankie-rolls .group-container-15 {
+  height: 346px;
+  margin-top: -0.22px;
+  position: relative;
+  width: 410px;
+}
+
+.frankie-rolls .group-1211 {
+  display: flex;
+  height: 346px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 410px;
+}
+
+.frankie-rolls .group-1210 {
+  display: flex;
+  flex: 1;
+  width: 410px;
+}
+
+.frankie-rolls .group-1209 {
+  background-image: url(../img/group-1205-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  margin-bottom: 0;
+  margin-top: 21.0px;
+  mix-blend-mode: multiply;
+  opacity: 0.91;
+  width: 410px;
+}
+
+.frankie-rolls .group-1215 {
+  background-image: url(../img/group-1212-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 340px;
+  left: 63px;
+  position: absolute;
+  top: 0;
+  width: 329px;
+}
+
+.frankie-rolls .chicken-delight {
+  top: 640px;
+}
+
+.frankie-rolls .paneer-delight {
+  top: 679px;
+}
+
+.frankie-rolls .chicken-omelette {
+  top: 723px;
+}
+
+.frankie-rolls .paneer-omelette {
+  top: 767px;
+}
+
+.frankie-rolls .text-6 {
+  top: 644px;
+}
+
+.frankie-rolls .text-7 {
+  top: 682px;
+}
+
+.frankie-rolls .text-8 {
+  top: 726px;
+}
+
+.frankie-rolls .text-9 {
+  top: 770px;
+}
+
+.frankie-rolls .chicken {
+  left: 91px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.frankie-rolls .paneer {
+  left: 91px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.frankie-rolls .path {
+  height: 84px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  width: 84px;
+}
+
+.frankie-rolls .text {
+  height: 30px;
+  left: 303px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 55px;
+}

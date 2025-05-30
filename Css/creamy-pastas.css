@@ -1,0 +1,1081 @@
+/* screen - creamy-pastas */
+
+.creamy-pastas {
+  align-items: flex-start;
+  background-color: var(--white);
+  cursor: pointer;
+  display: flex;
+  width: 430px;
+}
+
+.creamy-pastas .overlap-group10 {
+  height: 932px;
+  position: relative;
+  width: 430px;
+  z-index: 1;
+}
+
+.creamy-pastas .group-1030 {
+  display: flex;
+  height: 932px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 430px;
+}
+
+.creamy-pastas .group-1029 {
+  background-color: var(--eerie-black-2);
+  display: flex;
+  flex: 1;
+  width: 430px;
+}
+
+.creamy-pastas .group-102 {
+  display: flex;
+  flex: 1;
+  width: 430px;
+}
+
+.creamy-pastas .group-1026 {
+  display: flex;
+  flex: 1;
+  margin-bottom: 14.1px;
+  margin-left: 23.9px;
+  margin-right: 25.2px;
+  margin-top: 12.4px;
+  opacity: 0.46;
+  width: 380.95px;
+}
+
+.creamy-pastas .group-1025 {
+  display: flex;
+  flex: 1;
+  width: 380.95px;
+}
+
+.creamy-pastas .group-1024 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  padding: 0 0.0px;
+  width: 380.95px;
+}
+
+.creamy-pastas .flex-row {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  gap: 2px;
+  height: 360px;
+  margin-left: 0.17px;
+  min-width: 334px;
+}
+
+.creamy-pastas .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 117px;
+  min-height: 360px;
+  width: 169px;
+}
+
+.creamy-pastas .group-container-1 {
+  height: 74px;
+  margin-left: 0.34px;
+  position: relative;
+  width: 75px;
+}
+
+.creamy-pastas .group-9 {
+  display: flex;
+  height: 51px;
+  left: 12px;
+  opacity: 0.35;
+  position: absolute;
+  top: 12px;
+  width: 51px;
+}
+
+.creamy-pastas .group-956 {
+  display: flex;
+  flex: 1;
+  width: 50.83px;
+}
+
+.creamy-pastas .group-955 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 50.83px;
+}
+
+.creamy-pastas .group-951 {
+  background-image: url(../img/group-1076@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 37px;
+  left: 7px;
+  opacity: 0.1;
+  position: absolute;
+  top: 7px;
+  width: 37px;
+}
+
+.creamy-pastas .group-9-1 {
+  background-image: url(../img/group-1064@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 51px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 51px;
+}
+
+.creamy-pastas .group-960 {
+  background-image: url(../img/group-1085@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 56px;
+  left: 8px;
+  opacity: 0.1;
+  position: absolute;
+  top: 11px;
+  width: 56px;
+}
+
+.creamy-pastas .group-963 {
+  background-image: url(../img/group-1088@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 74px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 75px;
+}
+
+.creamy-pastas .group-container-2 {
+  height: 168px;
+  position: relative;
+  width: 169px;
+}
+
+.creamy-pastas .group-927 {
+  display: flex;
+  height: 115px;
+  left: 27px;
+  opacity: 0.35;
+  position: absolute;
+  top: 27px;
+  width: 115px;
+}
+
+.creamy-pastas .group-926 {
+  display: flex;
+  flex: 1;
+  width: 114.92px;
+}
+
+.creamy-pastas .group-925 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  overflow: hidden;
+  width: 114.92px;
+}
+
+.creamy-pastas .group-container-3 {
+  height: 115px;
+  position: relative;
+  width: 115px;
+}
+
+.creamy-pastas .group-921 {
+  background-image: url(../img/group-1046@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 83px;
+  left: 15px;
+  opacity: 0.1;
+  position: absolute;
+  top: 16px;
+  width: 84px;
+}
+
+.creamy-pastas .group-924 {
+  background-image: url(../img/group-1049@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 115px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 115px;
+}
+
+.creamy-pastas .group-930 {
+  background-image: url(../img/group-1055@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 127px;
+  left: 19px;
+  opacity: 0.1;
+  position: absolute;
+  top: 24px;
+  width: 127px;
+}
+
+.creamy-pastas .group-933 {
+  background-image: url(../img/group-1058@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 168px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 169px;
+}
+
+.creamy-pastas .group-container-4 {
+  height: 140px;
+  position: relative;
+  width: 140px;
+}
+
+.creamy-pastas .group-912 {
+  display: flex;
+  height: 95px;
+  left: 22px;
+  opacity: 0.35;
+  position: absolute;
+  top: 22px;
+  width: 95px;
+}
+
+.creamy-pastas .group-911 {
+  display: flex;
+  flex: 1;
+  width: 95.45px;
+}
+
+.creamy-pastas .group-910 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  overflow: hidden;
+  width: 95.45px;
+}
+
+.creamy-pastas .group-container-5 {
+  height: 95px;
+  position: relative;
+  width: 95px;
+}
+
+.creamy-pastas .group-906 {
+  background-image: url(../img/group-1031@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 69px;
+  left: 13px;
+  opacity: 0.1;
+  position: absolute;
+  top: 13px;
+  width: 69px;
+}
+
+.creamy-pastas .group-909 {
+  background-image: url(../img/group-502@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 95px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 95px;
+}
+
+.creamy-pastas .group-915 {
+  background-image: url(../img/group-1040@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 106px;
+  left: 16px;
+  opacity: 0.1;
+  position: absolute;
+  top: 20px;
+  width: 106px;
+}
+
+.creamy-pastas .group-918 {
+  background-image: url(../img/group-1043@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 140px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 140px;
+}
+
+.creamy-pastas .group-container-6 {
+  align-self: flex-end;
+  height: 74px;
+  position: relative;
+  width: 75px;
+}
+
+.creamy-pastas .group-941 {
+  display: flex;
+  flex: 1;
+  width: 50.83px;
+}
+
+.creamy-pastas .group-940 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 50.83px;
+}
+
+.creamy-pastas .group-936 {
+  background-image: url(../img/group-1061@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 37px;
+  left: 7px;
+  opacity: 0.1;
+  position: absolute;
+  top: 7px;
+  width: 37px;
+}
+
+.creamy-pastas .group-945 {
+  background-image: url(../img/group-1070@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 56px;
+  left: 8px;
+  opacity: 0.1;
+  position: absolute;
+  top: 11px;
+  width: 56px;
+}
+
+.creamy-pastas .group-948 {
+  background-image: url(../img/group-1073@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 74px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 75px;
+}
+
+.creamy-pastas .overlap-group-container-2 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 88px;
+  height: 203px;
+  margin-top: 56px;
+  min-width: 368px;
+}
+
+.creamy-pastas .group-container-7 {
+  height: 85px;
+  position: relative;
+  width: 85px;
+}
+
+.creamy-pastas .group-987 {
+  display: flex;
+  height: 58px;
+  left: 14px;
+  opacity: 0.35;
+  position: absolute;
+  top: 14px;
+  width: 58px;
+}
+
+.creamy-pastas .group-986 {
+  display: flex;
+  flex: 1;
+  width: 58.06px;
+}
+
+.creamy-pastas .group-985 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  width: 58.06px;
+}
+
+.creamy-pastas .group-container-8 {
+  height: 58px;
+  position: relative;
+  width: 58px;
+}
+
+.creamy-pastas .group-981 {
+  background-image: url(../img/group-1106@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 42px;
+  left: 8px;
+  opacity: 0.1;
+  position: absolute;
+  top: 8px;
+  width: 42px;
+}
+
+.creamy-pastas .group-984 {
+  background-image: url(../img/group-1109@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 58px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 58px;
+}
+
+.creamy-pastas .group-990 {
+  background-image: url(../img/group-1115@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 64px;
+  left: 10px;
+  opacity: 0.1;
+  position: absolute;
+  top: 12px;
+  width: 64px;
+}
+
+.creamy-pastas .group-993 {
+  background-image: url(../img/group-1118@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 85px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 85px;
+}
+
+.creamy-pastas .group-container-9 {
+  align-self: flex-end;
+  height: 195px;
+  position: relative;
+  width: 195px;
+}
+
+.creamy-pastas .group-1017 {
+  display: flex;
+  height: 133px;
+  left: 31px;
+  opacity: 0.35;
+  position: absolute;
+  top: 31px;
+  width: 133px;
+}
+
+.creamy-pastas .group-1016 {
+  display: flex;
+  flex: 1;
+  width: 132.85px;
+}
+
+.creamy-pastas .group-1015 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  padding: 0 0.0px;
+  width: 132.85px;
+}
+
+.creamy-pastas .group-container-10 {
+  height: 133px;
+  position: relative;
+  width: 133px;
+}
+
+.creamy-pastas .group-1011 {
+  background-image: url(../img/group-1009@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 96px;
+  left: 18px;
+  opacity: 0.1;
+  position: absolute;
+  top: 18px;
+  width: 97px;
+}
+
+.creamy-pastas .group-1014 {
+  background-image: url(../img/group-1012@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 133px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 133px;
+}
+
+.creamy-pastas .group-1020 {
+  background-image: url(../img/group-1018@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 147px;
+  left: 22px;
+  opacity: 0.1;
+  position: absolute;
+  top: 28px;
+  width: 147px;
+}
+
+.creamy-pastas .group-1023 {
+  background-image: url(../img/group-1021@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 195px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 195px;
+}
+
+.creamy-pastas .overlap-group-container-3 {
+  align-items: center;
+  display: flex;
+  gap: 63px;
+  margin-left: 0;
+  margin-top: 38px;
+  min-width: 357px;
+}
+
+.creamy-pastas .group-container-11 {
+  height: 249px;
+  position: relative;
+  width: 249px;
+}
+
+.creamy-pastas .group-1002 {
+  display: flex;
+  height: 170px;
+  left: 40px;
+  opacity: 0.35;
+  position: absolute;
+  top: 40px;
+  width: 170px;
+}
+
+.creamy-pastas .group-1001 {
+  display: flex;
+  flex: 1;
+  width: 169.68px;
+}
+
+.creamy-pastas .group-1000 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  padding: 0 0.0px;
+  width: 169.68px;
+}
+
+.creamy-pastas .group-container-12 {
+  height: 170px;
+  position: relative;
+  width: 170px;
+}
+
+.creamy-pastas .group-996 {
+  background-image: url(../img/group-1121@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 123px;
+  left: 23px;
+  opacity: 0.1;
+  position: absolute;
+  top: 23px;
+  width: 123px;
+}
+
+.creamy-pastas .group-999 {
+  background-image: url(../img/group-1124@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 170px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 170px;
+}
+
+.creamy-pastas .group-1005 {
+  background-image: url(../img/group-1003@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 188px;
+  left: 28px;
+  opacity: 0.1;
+  position: absolute;
+  top: 35px;
+  width: 188px;
+}
+
+.creamy-pastas .group-1008 {
+  background-image: url(../img/group-1006@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 249px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 249px;
+}
+
+.creamy-pastas .group-container-13 {
+  height: 46px;
+  margin-bottom: 93.2px;
+  position: relative;
+  width: 46px;
+}
+
+.creamy-pastas .group-972 {
+  display: flex;
+  height: 31px;
+  left: 7px;
+  opacity: 0.35;
+  position: absolute;
+  top: 7px;
+  width: 31px;
+}
+
+.creamy-pastas .group-971 {
+  display: flex;
+  flex: 1;
+  width: 31.09px;
+}
+
+.creamy-pastas .group-970 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  width: 31.09px;
+}
+
+.creamy-pastas .group-container-14 {
+  height: 31px;
+  position: relative;
+  width: 31px;
+}
+
+.creamy-pastas .group-966 {
+  background-image: url(../img/group-1091@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23px;
+  left: 4px;
+  opacity: 0.1;
+  position: absolute;
+  top: 4px;
+  width: 23px;
+}
+
+.creamy-pastas .group-969 {
+  background-image: url(../img/group-1094@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 31px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 31px;
+}
+
+.creamy-pastas .group-975 {
+  background-image: url(../img/group-973@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 34px;
+  left: 5px;
+  opacity: 0.1;
+  position: absolute;
+  top: 6px;
+  width: 34px;
+}
+
+.creamy-pastas .group-978 {
+  background-image: url(../img/group-1103@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 46px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 46px;
+}
+
+.creamy-pastas .group-636 {
+  cursor: pointer;
+  display: flex;
+  height: 174px;
+  left: 128px;
+  position: absolute;
+  top: 39px;
+  width: 174px;
+}
+
+.creamy-pastas .overlap-group {
+  height: 174px;
+  position: relative;
+  width: 174px;
+}
+
+.creamy-pastas .group-310 {
+  display: flex;
+  flex: 1;
+  width: 174.24px;
+}
+
+.creamy-pastas .murdeshwars {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 28.3px;
+  position: absolute;
+  top: 116px;
+  white-space: nowrap;
+}
+
+.creamy-pastas .murdeshwars-1 {
+  left: 22px;
+  letter-spacing: 0;
+  line-height: 28.3px;
+  position: absolute;
+  top: 116px;
+  white-space: nowrap;
+}
+
+.creamy-pastas .span1-1 {
+  letter-spacing: -0.48px;
+}
+
+.creamy-pastas .path-48 {
+  top: 26px;
+}
+
+.creamy-pastas .path-49 {
+  top: 25px;
+}
+
+.creamy-pastas .title {
+  height: 38px;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 224px;
+  width: 395px;
+}
+
+.creamy-pastas .our-pastas-have-beco {
+  height: 88px;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 261px;
+  width: 395px;
+}
+
+.creamy-pastas .pasta_-penne_-cheesy-removebg {
+  height: 182px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 398px;
+  width: 182px;
+}
+
+.creamy-pastas .overlap-group9 {
+  height: 38px;
+  left: 229px;
+  position: absolute;
+  top: 444px;
+  width: 136px;
+}
+
+.creamy-pastas .pasta {
+  color: var(--white);
+  font-family: var(--font-family-gillsans_mt-bold);
+  font-size: 21px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 34px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.creamy-pastas .surname {
+  left: 22px;
+  letter-spacing: 0;
+  line-height: 34px;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.creamy-pastas .vegetarian170 {
+  color: #7fff00;
+  font-family: var(--font-family-gillsans_mt-regular);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  left: 144px;
+  letter-spacing: 0;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 337px;
+  white-space: nowrap;
+}
+
+.creamy-pastas .chicken205 {
+  color: #ff6666;
+  font-family: var(--font-family-gillsans_mt-regular);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  left: 154px;
+  letter-spacing: 0;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 362px;
+  white-space: nowrap;
+}
+
+.creamy-pastas .group-647 {
+  align-items: flex-end;
+  display: flex;
+  height: 198px;
+  justify-content: space-between;
+  left: 35px;
+  position: absolute;
+  top: 680px;
+  width: 364px;
+}
+
+.creamy-pastas .pink_pasta-removebg {
+  margin-bottom: 0;
+  margin-top: 0;
+  object-fit: cover;
+  width: 199px;
+}
+
+.creamy-pastas .group-1160 {
+  align-items: flex-start;
+  display: flex;
+  height: 41px;
+  margin-bottom: -19.6px;
+  min-width: 150px;
+}
+
+.creamy-pastas .overlap-group-1 {
+  height: 38px;
+  margin-top: -4.5px;
+  position: relative;
+  width: 150px;
+}
+
+.creamy-pastas .pink-sauce {
+  left: 35px;
+  letter-spacing: 0;
+  line-height: 34px;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.creamy-pastas .group-1230 {
+  display: flex;
+  gap: 5.7px;
+  height: 194px;
+  left: 23px;
+  position: absolute;
+  top: 535px;
+  width: 392px;
+}
+
+.creamy-pastas .group-1229 {
+  align-items: flex-start;
+  display: flex;
+  height: 33.46px;
+  margin-top: -14.3px;
+  min-width: 38.41px;
+  padding: 0 0.0px;
+}
+
+.creamy-pastas .group-container-15 {
+  height: 33px;
+  position: relative;
+  width: 38px;
+}
+
+.creamy-pastas .group-1224 {
+  background-image: url(../img/group-1223-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 33px;
+  left: 14px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.creamy-pastas .group-1227 {
+  background-image: url(../img/group-1223-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.creamy-pastas .group-1228 {
+  display: flex;
+  flex: 1;
+}
+
+.creamy-pastas .group-646 {
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+  width: 348.31px;
+}
+
+.creamy-pastas .group-1159 {
+  display: flex;
+  height: 41px;
+  margin-top: -19.6px;
+  width: 154px;
+}
+
+.creamy-pastas .group-1226 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 156px;
+}
+
+.creamy-pastas .overlap-group-2 {
+  height: 38px;
+  margin-top: -4.5px;
+  position: relative;
+  width: 156px;
+}
+
+.creamy-pastas .pasta-arabiatta {
+  color: var(--wild-watermelon);
+  font-family: var(--font-family-gillsans_mt-bold);
+  font-size: 21px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 34px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.creamy-pastas .red-sauce {
+  left: 41px;
+  letter-spacing: 0;
+  line-height: 34px;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.creamy-pastas .pasta_-arabiatta-removebg {
+  margin-right: 0;
+  object-fit: cover;
+  width: 192.31px;
+}
+
+.creamy-pastas .nav_icons {
+  align-items: flex-end;
+  display: flex;
+  height: 18px;
+  justify-content: flex-end;
+  left: 120px;
+  min-width: 190px;
+  padding: 0 0.0px;
+  position: fixed;
+  top: 890px;
+  z-index: 2;
+}
+
+.creamy-pastas .polygon-1 {
+  margin-bottom: 0;
+}
+
+.creamy-pastas .subtraction-1 {
+  cursor: pointer;
+  height: 18px;
+  margin-bottom: 0;
+  margin-left: 68px;
+  object-fit: cover;
+  width: 27px;
+}
+
+.creamy-pastas .path {
+  height: 84px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  width: 84px;
+}
+
+.creamy-pastas .polygon {
+  cursor: pointer;
+  height: 18px;
+  object-fit: cover;
+  width: 15px;
+}

@@ -1,0 +1,338 @@
+:root { 
+  --almond: #f8dbc5;
+  --bittersweet-shimmer: #c05353;
+  --carnation: #f96767;
+  --eerie-black: #1a1718;
+  --eerie-black-2: #1a1818;
+  --laser: #bfb363;
+  --monza: #e3001b;
+  --negroni: #f8dcc6;
+  --neon-carrot: #ffa347;
+  --selective-yellow: #ffb200;
+  --slimy-green: #35a024;
+  --spring-frost: #80ff41;
+  --turbo: #ffe500;
+  --white: #ffffff;
+  --wild-watermelon: #ff6877;
+  --yellow-sunshine: #ffee00;
+ 
+  --font-size-l: 14px;
+  --font-size-m: 12px;
+  --font-size-s: 10px;
+  --font-size-xl: 18px;
+  --font-size-xs: 7.3px;
+  --font-size-xxl: 20px;
+  --font-size-xxxl: 23.5px;
+ 
+  --font-family-gill_sans_std: "Gill Sans Std", Helvetica;
+  --font-family-gillsans_mt-bold: "GillSans MT-Bold", Helvetica;
+  --font-family-gillsans_mt-regular: "GillSans MT-Regular", Helvetica;
+  --font-family-gillsans_std-bold: "GillSans Std-Bold", Helvetica;
+  --font-family-gillsans_std-regular: "GillSans Std-Regular", Helvetica;
+  --font-family-gillsansmt-bold: "GillSansMT-Bold", Helvetica;
+  --font-family-gillsansstd-bold: "GillSansStd-Bold", Helvetica;
+  --font-family-helveticaneue-mediumcond: "HelveticaNeue-MediumCond", Helvetica;
+  --font-family-segoeui-bold: "SegoeUI-Bold", Helvetica;
+  --font-family-segoeui-regular: "SegoeUI-Regular", Helvetica;
+  --font-family-segoeui-semibold: "SegoeUI-Semibold", Helvetica;
+  --font-family-timberline-regular: "Timberline-Regular", Helvetica;
+}
+.helveticaneue-mediumcond-medium-eerie-black-23-5px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-helveticaneue-mediumcond);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.helveticaneue-mediumcond-medium-white-23-5px {
+  color: var(--white);
+  font-family: var(--font-family-helveticaneue-mediumcond);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.helveticaneue-mediumcond-medium-turbo-23-5px {
+  color: var(--turbo);
+  font-family: var(--font-family-helveticaneue-mediumcond);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.gillsansstd-bold-white-7-3px {
+  color: var(--white);
+  font-family: var(--font-family-gillsansstd-bold);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gillsansmt-bold-negroni-17-1px {
+  color: var(--negroni);
+  font-family: var(--font-family-gillsansmt-bold);
+  font-size: 17.1px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gillsansmt-bold-negroni-15-8px {
+  color: var(--negroni);
+  font-family: var(--font-family-gillsansmt-bold);
+  font-size: 15.8px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gillsansmt-bold-negroni-14-3px {
+  color: var(--negroni);
+  font-family: var(--font-family-gillsansmt-bold);
+  font-size: 14.3px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gillsansstd-bold-white-6-4px {
+  color: var(--white);
+  font-family: var(--font-family-gillsansstd-bold);
+  font-size: 6.4px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gillsansmt-bold-white-27px {
+  color: var(--white);
+  font-family: var(--font-family-gillsans_mt-bold);
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gillsansstd-bold-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-gillsans_std-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gillsansmt-bold-negroni-15-3px {
+  color: var(--negroni);
+  font-family: var(--font-family-gillsansmt-bold);
+  font-size: 15.3px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gillsansstd-regular-normal-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-gillsans_std-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gillsansstd-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-gill_sans_std);
+  font-size: var(--font-size-xxl);
+}
+
+.gillsansmt-bold-almond-12-7px {
+  color: var(--almond);
+  font-family: var(--font-family-gillsansmt-bold);
+  font-size: 12.7px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gillsansstd-normal-white-12px {
+  color: var(--white);
+  font-family: var(--font-family-gill_sans_std);
+  font-size: var(--font-size-m);
+}
+
+.gillsansmt-bold-negroni-11px {
+  color: var(--negroni);
+  font-family: var(--font-family-gillsansmt-bold);
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gillsansstd-bold-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-gillsans_std-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gillsansmt-bold-negroni-16-3px {
+  color: var(--negroni);
+  font-family: var(--font-family-gillsansmt-bold);
+  font-size: 16.3px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gillsansmt-bold-almond-16-7px {
+  color: var(--almond);
+  font-family: var(--font-family-gillsansmt-bold);
+  font-size: 16.7px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gillsansmt-bold-negroni-11-4px {
+  color: var(--negroni);
+  font-family: var(--font-family-gillsansmt-bold);
+  font-size: 11.4px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gillsansmt-bold-almond-9-5px {
+  color: var(--almond);
+  font-family: var(--font-family-gillsansmt-bold);
+  font-size: 9.5px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gillsansstd-regular-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-gillsans_std-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gillsansstd-regular-normal-white-10px {
+  color: var(--white);
+  font-family: var(--font-family-gillsans_std-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gillsansstd-regular-normal-white-12px {
+  color: var(--white);
+  font-family: var(--font-family-gillsans_std-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gillsansstd-bold-selective-yellow-18px {
+  color: var(--selective-yellow);
+  font-family: var(--font-family-gillsans_std-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.segoeui-bold-selective-yellow-18px {
+  color: var(--selective-yellow);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gillsansmt-bold-negroni-11-9px {
+  color: var(--negroni);
+  font-family: var(--font-family-gillsansmt-bold);
+  font-size: 11.9px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gillsansmt-bold-negroni-14px {
+  color: var(--negroni);
+  font-family: var(--font-family-gillsansmt-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.segoeui-semi-bold-neon-carrot-12px {
+  color: var(--neon-carrot);
+  font-family: var(--font-family-segoeui-semibold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.gillsansmt-bold-almond-18-3px {
+  color: var(--almond);
+  font-family: var(--font-family-gillsansmt-bold);
+  font-size: 18.3px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.segoeui-bold-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.segoeui-regular-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gillsansstd-bold-white-21px {
+  color: var(--white);
+  font-family: var(--font-family-gillsans_std-bold);
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.segoeui-bold-neon-carrot-20px {
+  color: var(--neon-carrot);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gillsansmt-regular-normal-white-12px {
+  color: var(--white);
+  font-family: var(--font-family-gillsans_mt-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gillsansmt-regular-normal-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-gillsans_mt-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gillsansstd-bold-spring-frost-12px {
+  color: var(--spring-frost);
+  font-family: var(--font-family-gillsans_std-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gillsansstd-bold-carnation-12px {
+  color: var(--carnation);
+  font-family: var(--font-family-gillsans_std-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
