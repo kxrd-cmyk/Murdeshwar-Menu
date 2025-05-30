@@ -1,0 +1,7 @@
+{
+  "name": "murdeshwar-menu",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "cp -r * dist/"
+  }
+}
