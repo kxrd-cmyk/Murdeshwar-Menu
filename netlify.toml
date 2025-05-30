@@ -1,21 +1,21 @@
 [build]
 base = "/"
 publish = "dist"
-command = "npm run build"
+command = "if not exist dist mkdir dist && xcopy /E /I /Y * dist"
 
 [build.environment]
 NODE_VERSION = "18"
 
 [context.production]
-command = "npm run build"
+command = "if not exist dist mkdir dist && xcopy /E /I /Y * dist"
 publish = "dist"
 
 [context.deploy-preview]
-command = "npm run build"
+command = "if not exist dist mkdir dist && xcopy /E /I /Y * dist"
 publish = "dist"
 
 [context.branch-deploy]
-command = "npm run build"
+command = "if not exist dist mkdir dist && xcopy /E /I /Y * dist"
 publish = "dist"
 
 [[redirects]]
