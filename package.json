@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "scripts": {
     "build": "npm run clean && npm run copy",
-    "clean": "rm -rf dist || true",
-    "copy": "mkdir -p dist && cp -r ./* dist/",
+    "clean": "node -e 'require(\"fs-extra\").removeSync(\"dist\")' || true",
+    "copy": "node -e 'require(\"fs-extra\").copySync(\".\", \"dist\")' || true",
     "start": "serve dist"
   },
   "devDependencies": {
+    "fs-extra": "^11.1.1",
     "serve": "^14.0.0"
   }
 }
