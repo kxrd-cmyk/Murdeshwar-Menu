@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "build": "npm run clean && npm run copy",
-    "clean": "rm -rf dist",
-    "copy": "mkdir -p dist && cp -r ./* dist/",
+    "clean": "rmdir /s /q dist || true",
+    "copy": "mkdir -p dist && xcopy /E /I /Y . dist",
     "start": "serve dist"
   },
   "devDependencies": {
