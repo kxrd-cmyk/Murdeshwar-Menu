@@ -4,7 +4,7 @@
   "scripts": {
     "build": "npm run clean && npm run copy",
     "clean": "node -e 'require(\"fs-extra\").removeSync(\"dist\")' || true",
-    "copy": "node -e 'require(\"fs-extra\").mkdirsSync(\"dist\"); require(\"fs-extra\").copySync(\".\", \"dist\", { filter: (src) => {\n      // Only copy HTML files and specific directories\n      const htmlFiles = src.endsWith(\".html\");\n      const directoriesToCopy = [\"Css\", \"Font\", \"Img\"];\n      const isDirectoryToCopy = directoriesToCopy.some(dir => src.startsWith(`./${dir}/`) || src === `./${dir}`);\n      return htmlFiles || isDirectoryToCopy;\n    } }); console.log(\"Files copied to dist:\", require(\"fs\").readdirSync(\"dist\"))' || true",
+    "copy": "node -e 'require(\"fs-extra\").mkdirsSync(\"dist\"); require(\"fs-extra\").copySync(\".\", \"dist\", { filter: (src) => {\n      // Copy all HTML files\n      const htmlFiles = src.endsWith(\".html\");\n      // Copy specific directories\n      const directoriesToCopy = [\"Css\", \"Font\", \"Img\"];\n      const isDirectoryToCopy = directoriesToCopy.some(dir => src.startsWith(`./${dir}/`) || src === `./${dir}`);\n      // Always copy index.html explicitly\n      const isIndex = src === \"./index.html\" || src === \"index.html\";\n      return htmlFiles || isDirectoryToCopy || isIndex;\n    } }); console.log(\"Files copied to dist:\", require(\"fs\").readdirSync(\"dist\"))' || true",
     "start": "serve dist"
   },
   "devDependencies": {
