@@ -4,7 +4,7 @@
   "scripts": {
     "build": "npm run clean && npm run copy",
     "clean": "node -e 'require(\"fs-extra\").removeSync(\"dist\")' || true",
-    "copy": "node -e 'require(\"fs-extra\").mkdirsSync(\"dist\"); require(\"fs-extra\").copySync(\".\", \"dist\", { filter: (src) => {\n      // Only copy HTML files and specific directories\n      const htmlFiles = src.endsWith(\".html\");\n      const directoriesToCopy = [\"Css\", \"Font\", \"Img\"];\n      const isDirectoryToCopy = directoriesToCopy.some(dir => src.startsWith(`./${dir}/`) || src === `./${dir}`);\n      return htmlFiles || isDirectoryToCopy;\n    } })' || true",
+    "copy": "node -e 'require(\"fs-extra\").mkdirsSync(\"dist\"); require(\"fs-extra\").copySync(\".\", \"dist\", { filter: (src) => {\n      // Only copy HTML files and specific directories\n      const htmlFiles = src.endsWith(\".html\");\n      const directoriesToCopy = [\"Css\", \"Font\", \"Img\"];\n      const isDirectoryToCopy = directoriesToCopy.some(dir => src.startsWith(`./${dir}/`) || src === `./${dir}`);\n      return htmlFiles || isDirectoryToCopy;\n    } }); console.log(\"Files copied to dist:\", require(\"fs\").readdirSync(\"dist\"))' || true",
     "start": "serve dist"
   },
   "devDependencies": {

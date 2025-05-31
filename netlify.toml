@@ -23,7 +23,13 @@ publish = "dist"
   to = "/index.html"
   status = 200
 
-# Add a specific redirect for the root path
+# Add a catch-all redirect for any path
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# Ensure the root path works
 [[redirects]]
   from = "/"
   to = "/index.html"
