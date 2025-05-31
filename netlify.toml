@@ -22,3 +22,9 @@ publish = "dist"
   from = "/*"
   to = "/index.html"
   status = 200
+
+# Add a specific redirect for the root path
+[[redirects]]
+  from = "/"
+  to = "/index.html"
+  status = 200
