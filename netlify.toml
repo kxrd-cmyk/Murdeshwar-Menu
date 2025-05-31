@@ -20,5 +20,5 @@ publish = "dist"
 
 [[redirects]]
   from = "/*"
-  to = "/splash.html"
+  to = "/index.html"
   status = 200
