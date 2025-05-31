@@ -4,7 +4,7 @@
   "scripts": {
     "build": "npm run clean && npm run copy",
     "clean": "node -e 'require(\"fs-extra\").removeSync(\"dist\")' || true",
-    "copy": "node -e 'require(\"fs-extra\").copySync(\".\", \"dist\")' || true",
+    "copy": "node -e 'require(\"fs-extra\").copySync(\".\", \"dist\", { filter: (src) => !src.includes(\"dist\") })' || true",
     "start": "serve dist"
   },
   "devDependencies": {
